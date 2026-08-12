@@ -186,7 +186,7 @@ Apache JMeter 5.6.3 с плагинами JMeter Plugins (Response Times Over Ti
 - **Протокол:** HTTP;
 - **Источник данных:** CSV Data Set Config;
 - **Таймеры:** Constant Timer (паузы между операциями).
-
+ 
 ### Приложение 6. Сырые данные
 - `Jmeter-hw_7.jmx` — файл тест-плана;
 - `.jtl` файлы результатов для каждого из трёх сеансов (при наличии).
